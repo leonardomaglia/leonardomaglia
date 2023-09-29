@@ -3,7 +3,7 @@
 <br/>
 <b>About Me</b>
 <br/>
-🏦 Software Engineer At <a href="https://www.linkedin.com/company/sindiconet/mycompany/">SindicoNet</a>
+🏦 Software Engineer At <a href="https://www.linkedin.com/company/sindiconet/">SindicoNet</a> / <a href="https://www.linkedin.com/company/quintoandar-com-br/">QuintoAndar</a>
 <br/>
 💻 Freelancer
 <br/>
